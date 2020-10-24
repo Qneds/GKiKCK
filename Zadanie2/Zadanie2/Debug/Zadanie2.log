@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie2\Zadanie2\Main.cpp(144,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Zadanie2.vcxproj -> C:\Users\Qneds\source\repos\GKiKCK\Zadanie2\Debug\Zadanie2.exe
