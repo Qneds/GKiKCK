@@ -7,6 +7,7 @@
 #include "Mouse.h"
 #include "Weierstrass.h"
 #include <time.h>
+#include <iostream>
 /*********************************************************************/
 
 
@@ -166,6 +167,11 @@ void ChangeSize(GLsizei horizontal, GLsizei vertical)
 
 int main()
 {
+
+	std::cout << "Z - zmiana trybu wyswietlania" << std::endl;
+	std::cout << "-/+ - zoom" << std::endl;
+	std::cout << "R - reset kamery" << std::endl;
+
 	srand(time(NULL));
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
 

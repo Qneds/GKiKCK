@@ -197,6 +197,8 @@ void main(void)
     std::cout << "Podaj N: "; 
     std::cin >> N;
     std::cout << "Z - zmiana obrotow" << std::endl;
+    std::cout << "-/+ - zoom" << std::endl;
+    std::cout << "R - reset kamery" << std::endl;
     egg = new Egg{N, cords,1.};
     egg->set_spin_theta(false, false, false);
 

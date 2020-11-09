@@ -1,16 +1,3 @@
-﻿  Camera.cpp
-  Egg.cpp
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(12,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(73,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(85,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(128,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(186,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(190,22): warning C4018: '<': signed/unsigned mismatch
-  Mouse.cpp
-  Generating Code...
-C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Egg.cpp(225): warning C4715: 'Egg::convert_state': not all control paths return a value
+﻿  Main.cpp
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Zadanie3\Main.cpp(193,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
   Zadanie3.vcxproj -> C:\Users\Qneds\source\repos\GKiKCK\Zadanie3\Debug\Zadanie3.exe
