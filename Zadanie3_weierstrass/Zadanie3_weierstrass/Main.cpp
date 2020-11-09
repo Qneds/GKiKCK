@@ -82,7 +82,7 @@ void keys(unsigned char key, int x, int y) {
 		if (g_wei.get_inner_size() >= 50) {
 			g_wei.set_num_of_rot(g_wei.get_num_of_rot() + 1);
 		}
-		g_wei.set_size(g_wei.get_inner_size() + 50.);
+		g_wei.set_size(g_wei.get_inner_size() + 25);
 
 
 	}
@@ -93,12 +93,14 @@ void keys(unsigned char key, int x, int y) {
 		if (g_wei.get_inner_size() > 50) {
 			g_wei.set_num_of_rot(g_wei.get_num_of_rot() - 1);
 		}
-		g_wei.set_size(g_wei.get_inner_size() - 50.);
+		g_wei.set_size(g_wei.get_inner_size() - 25);
 	}
 
 	// reset kamery
 	if (key == 'r') {
 		g_camera.reset();
+		g_wei.set_num_of_rot(7);
+		g_wei.set_size(100);
 	}
 
 	// zmiana sposobu wyœwietlania p³aszczyzny
