@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  Main.cpp
+  Mouse.cpp
+  Weierstrass.cpp
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(104,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(150,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(208,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(219,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Zadanie3_weierstrass.vcxproj -> C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Debug\Zadanie3_weierstrass.exe
