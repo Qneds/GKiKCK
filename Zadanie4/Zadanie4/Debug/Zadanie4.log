@@ -1,0 +1,7 @@
+﻿  DiretionalLight.cpp
+  LightSource.cpp
+  Main.cpp
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie4\Zadanie4\Main.cpp(259,17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PointLight.cpp
+  Generating Code...
+  Zadanie4.vcxproj -> C:\Users\Qneds\source\repos\GKiKCK\Zadanie4\Debug\Zadanie4.exe

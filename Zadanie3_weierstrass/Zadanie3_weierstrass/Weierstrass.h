@@ -43,7 +43,7 @@ private:
 
 	EState m_state = e_polygons;
 
-	float a = 3;
+	float a = 3.;
 	point2 *m_tab_2d;
 	point3 **m_tab_3d;
 	point3 **m_colors;

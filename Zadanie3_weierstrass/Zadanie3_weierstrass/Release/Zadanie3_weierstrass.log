@@ -1,6 +1,14 @@
 ﻿  Main.cpp
+  Weierstrass.cpp
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(104,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(150,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(208,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie3_weierstrass\Zadanie3_weierstrass\Weierstrass.cpp(219,21): warning C4018: '<': signed/unsigned mismatch
   Generating code
-  2 of 58 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+  6 of 58 functions (10.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
