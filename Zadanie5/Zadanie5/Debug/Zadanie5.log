@@ -1,0 +1,20 @@
+﻿  Egg.cpp
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Egg.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Egg.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Egg.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Egg.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Egg.cpp(162,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Egg.cpp(165,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Egg.cpp(193,13): warning C4018: '>=': signed/unsigned mismatch
+  Main.cpp
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Main.cpp(198,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Main.cpp(199,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Main.cpp(200,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Main.cpp(200,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Main.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Main.cpp(205,34): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Main.cpp(211,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Zadanie5\Main.cpp(211,35): warning C4018: '<': signed/unsigned mismatch
+  Texture.cpp
+  Generating Code...
+  Zadanie5.vcxproj -> C:\Users\Qneds\source\repos\GKiKCK\Zadanie5\Debug\Zadanie5.exe
