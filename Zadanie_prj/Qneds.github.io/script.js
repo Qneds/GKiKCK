@@ -13,24 +13,40 @@ var sled = new THREE.Object3D();
 
 
 // wczytywanie sanek
+<<<<<<< HEAD
 loader_obj.load("obiekty/sled_w_tex.json", function ( obj ) {
   obj.material.color.set("rgb(255, 255, 255)");
   obj.material.emissive.set(0x0);
   obj.material.specular.set("rgb(0, 0, 0)");
   obj.position.set(1,sled_y_off,0);
+=======
+loader_obj.load("sled_w_tex.json", function ( obj ) {
+  obj.material.color.set("rgb(255, 255, 255)");
+  obj.material.emissive.set(0x0);
+  obj.material.specular.set("rgb(0, 0, 0)");
+  obj.position.set(0,sled_y_off,0);
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   obj.rotation.x = Math.PI / 12;
   scene.add( obj );
   sled = obj;
 });
 
 // wczytywanie drzewka
+<<<<<<< HEAD
 loader_obj.load("obiekty/tree.json", function ( obj ) {
+=======
+loader_obj.load("tree.json", function ( obj ) {
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   obj.material = new THREE.MeshPhongMaterial({
     color : new THREE.Color("rgb(255, 255, 255)"),
     emissive : 0x0,
     emissiveIntensity : 1,
     specular : new THREE.Color("rgb(0, 0, 0)"),
+<<<<<<< HEAD
     map : loader_tex.load("tekstury/tree_tex.png")
+=======
+    map : loader_tex.load("tree_tex.png")
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   });
   obj.position.set(0,-3,6);
   obj.scale.set(2,2,2);
@@ -39,13 +55,21 @@ loader_obj.load("obiekty/tree.json", function ( obj ) {
 });
 
 // wczytywanie podłoża
+<<<<<<< HEAD
 loader_obj.load("obiekty/plane.json", function ( obj ) {
+=======
+loader_obj.load("plane.json", function ( obj ) {
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   obj.material = new THREE.MeshPhongMaterial({
     color : new THREE.Color("rgb(255, 255, 255)"),
     emissive : 0x0,
     emissiveIntensity : 1,
     specular : new THREE.Color("rgb(0, 0, 0)"),
+<<<<<<< HEAD
     map : loader_tex.load("tekstury/plane_tex.jpg")
+=======
+    map : loader_tex.load("plane_tex.jpg")
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   });
 
   obj.position.set(0,-5,0);
@@ -54,13 +78,21 @@ loader_obj.load("obiekty/plane.json", function ( obj ) {
 });
 
 // wczytywanie prezentu
+<<<<<<< HEAD
 loader_obj.load("obiekty/gift.json", function ( obj ) {
+=======
+loader_obj.load("gift.json", function ( obj ) {
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   obj.material = new THREE.MeshPhongMaterial({
     color : new THREE.Color("rgb(255, 255, 255)"),
     emissive : 0x0,
     emissiveIntensity : 1,
     specular : new THREE.Color("rgb(0, 0, 0)"),
+<<<<<<< HEAD
     map : loader_tex.load("tekstury/gift_tex.png")
+=======
+    map : loader_tex.load("gift_tex.png")
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   });
 
   obj.position.set(0,-4,0);
@@ -69,13 +101,21 @@ loader_obj.load("obiekty/gift.json", function ( obj ) {
 });
 
 // wczytywanie bałwana
+<<<<<<< HEAD
 loader_obj.load("obiekty/snowman.json", function ( obj ) {
+=======
+loader_obj.load("snowman.json", function ( obj ) {
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   obj.material = new THREE.MeshPhongMaterial({
     color : new THREE.Color("rgb(255, 255, 255)"),
     emissive : 0x0,
     emissiveIntensity : 1,
     specular : new THREE.Color("rgb(0, 0, 0)"),
+<<<<<<< HEAD
     map : loader_tex.load("tekstury/snowman_tex.png")
+=======
+    map : loader_tex.load("snowman_tex.png")
+>>>>>>> 1a9a0e7a51259a50d8986a80b581c1743ee3c710
   });
   obj.position.set(0,-3.5,-6);
   obj.scale.set(2,2,2);
