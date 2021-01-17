@@ -1,0 +1,69 @@
+{
+	"metadata": {
+		"version": 4.5,
+		"type": "Object",
+		"generator": "Object3D.toJSON"
+	},
+	"geometries": [
+		{
+			"uuid": "A909E6B0-EA10-4A90-9666-C10B5A8C31B6",
+			"type": "BufferGeometry",
+			"data": {
+				"attributes": {
+					"position": {
+						"itemSize": 3,
+						"type": "Float32Array",
+						"array": [-35,0,35,35,0,35,35,0,-35,-35,0,35,35,0,-35,-35,0,-35],
+						"normalized": false
+					},
+					"normal": {
+						"itemSize": 3,
+						"type": "Float32Array",
+						"array": [0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0],
+						"normalized": false
+					},
+					"uv": {
+						"itemSize": 2,
+						"type": "Float32Array",
+						"array": [0,1,0,0,1,0,0,1,1,0,1,1],
+						"normalized": false
+					}
+				},
+				"boundingSphere": {
+					"center": [0,0,0],
+					"radius": 49.497475
+				}
+			}
+		}],
+	"materials": [
+		{
+			"uuid": "09EB2F39-A641-4D5C-888C-16010FF711D5",
+			"type": "MeshPhongMaterial",
+			"name": "Material.001",
+			"color": 16777215,
+			"emissive": 0,
+			"specular": 0,
+			"shininess": 0,
+			"flatShading": true,
+			"depthFunc": 3,
+			"depthTest": true,
+			"depthWrite": true,
+			"stencilWrite": false,
+			"stencilWriteMask": 255,
+			"stencilFunc": 519,
+			"stencilRef": 0,
+			"stencilFuncMask": 255,
+			"stencilFail": 7680,
+			"stencilZFail": 7680,
+			"stencilZPass": 7680
+		}],
+	"object": {
+		"uuid": "B194278D-2D0A-414E-8B85-74466A3B1ABD",
+		"type": "Mesh",
+		"name": "Plane",
+		"layers": 1,
+		"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0.36632,0,0,1],
+		"geometry": "A909E6B0-EA10-4A90-9666-C10B5A8C31B6",
+		"material": "09EB2F39-A641-4D5C-888C-16010FF711D5"
+	}
+}
