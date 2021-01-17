@@ -1,3 +1,2 @@
 # GKiKCK
-Nr indeksu: 248841
- Github Pages: https://qneds.github.io
+Nr indeksu: 248841  Github Pages: https://qneds.github.io
